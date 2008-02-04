@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertNotVisible(${1:element}${4:, '${3:Should not be visible}'});</string>
+	<string>assertNotVisible(${1:element}${2:, '${3:Should not be visible}'});</string>
 	<key>name</key>
 	<string>assertNotVisible</string>
 	<key>scope</key>

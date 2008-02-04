@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertUndefined(${1:expr}${2:, '${3:Should be undefined}'});</string>
+	<string>assertNoMatch(${1:expected}, ${2:actual}${3:, '${4:Should be no match}'});</string>
 	<key>name</key>
-	<string>assertUndefined</string>
+	<string>assertNoMatch</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>asu</string>
+	<string>asnm</string>
 	<key>uuid</key>
-	<string>55BE6C21-09AC-4F0C-8873-0C87625F9D22</string>
+	<string>F86FD9D0-3C8F-4CC6-907E-12DAB736AC76</string>
 </dict>
 </plist>

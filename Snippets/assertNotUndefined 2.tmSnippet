@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertType(${1:expected}, ${2:actual}, '${3:Should have type}');</string>
+	<string>assertNotUndefined(${1:expr}${2:, '${3:Should not be undefined}'});</string>
 	<key>name</key>
-	<string>assertType</string>
+	<string>assertNotUndefined</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>ast</string>
+	<string>asnu</string>
 	<key>uuid</key>
-	<string>E6D4B8FB-7382-4B54-9515-45091269C678</string>
+	<string>989EEBC1-A2C1-4344-AD30-1BAFD68EB6BB</string>
 </dict>
 </plist>

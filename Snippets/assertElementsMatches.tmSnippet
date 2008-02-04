@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertElementsMatches(${1:element}, ${2:expr});</string>
+	<string>assertElementsMatches(${1:elements}, ${2:expr});</string>
 	<key>name</key>
 	<string>assertElementsMatches</string>
 	<key>scope</key>

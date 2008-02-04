@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertEnumEqual(${1:expected}, ${2:actual}, '${3:Enum should be equal}');</string>
+	<string>assertNotNullOrUndefined(${1:expr}${2:, '${3:Should be not null nor undefined}'});</string>
 	<key>name</key>
-	<string>assertEnumEqual</string>
+	<string>assertNotNullOrUndefined</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>asee</string>
+	<string>asnnou</string>
 	<key>uuid</key>
-	<string>8858DEF8-AA05-458D-841B-D89E739310D6</string>
+	<string>D9966052-90D9-44E9-8781-2D33866B33E9</string>
 </dict>
 </plist>

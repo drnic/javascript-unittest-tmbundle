@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>loadSample('samples/${TM_FILEPATH/.+\/([\w_]+)_test.*/$1/}/${2:sample}.html');</string>
+	<string>assertNoDifference('${1:expr}', function() {
+	$0
+});</string>
 	<key>name</key>
-	<string>loadSample</string>
+	<string>assertNoDifference</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>sample</string>
+	<string>asnd</string>
 	<key>uuid</key>
-	<string>3AD8C0C5-2DFE-40D1-9B54-39E26895A9AA</string>
+	<string>711460B5-5B6F-448B-8B9F-EBDCBBF8B30B</string>
 </dict>
 </plist>

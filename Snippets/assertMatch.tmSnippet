@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertMatch(${1:expected}, ${2:actual}, '${3:Should match}');</string>
+	<string>assertMatch(${1:expected}, ${2:actual}${3:, '${4:Should match}'});</string>
 	<key>name</key>
 	<string>assertMatch</string>
 	<key>scope</key>

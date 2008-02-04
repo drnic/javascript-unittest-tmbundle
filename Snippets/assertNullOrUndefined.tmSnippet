@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertReturnsTrue(${1:method}, ${2:obj}, '${3:Should return true}');</string>
+	<string>assertNullOrUndefined(${1:expr}${2:, '${3:Should be null or undefined}'});</string>
 	<key>name</key>
-	<string>assertReturnsTrue</string>
+	<string>assertNullOrUndefined</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>asrtt</string>
+	<string>asnou</string>
 	<key>uuid</key>
-	<string>25EC314C-6B8E-4AE0-8EBD-B5BE70A017A2</string>
+	<string>3F5258F0-E877-43A9-9093-94F0A4892DB2</string>
 </dict>
 </plist>

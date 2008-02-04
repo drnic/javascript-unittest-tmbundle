@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertReturnsFalse(${1:method}, ${2:obj}, '${3:Should return false}');</string>
+	<string>assertRaise('${1:exceptionName}', ${2:method}${3:, '${4:Should raise nothing}'});</string>
 	<key>name</key>
-	<string>assertReturnsFalse</string>
+	<string>assertNothingRaise</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>asrtf</string>
+	<string>asnr</string>
 	<key>uuid</key>
-	<string>B4223129-43D0-4E9D-92E7-E64AACD5EF1F</string>
+	<string>F76DAEE6-27B3-4A52-A06A-13ACF065EB97</string>
 </dict>
 </plist>

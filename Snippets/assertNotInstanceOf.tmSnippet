@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertNotInstanceOf(${1:expected}, ${2:actual}, '${3:Should not be instance}');</string>
+	<string>assertNotInstanceOf(${1:expected}, ${2:actual}${3:, '${4:Should not be instance}'});</string>
 	<key>name</key>
 	<string>assertNotInstanceOf</string>
 	<key>scope</key>

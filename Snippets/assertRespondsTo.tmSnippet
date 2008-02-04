@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertRespondsTo('${1:method}', ${2:obj}, '${3:Should respond to}');</string>
+	<string>assertRespondsTo('${1:method}', ${2:obj}${3:, '${4:Should respond to}'});</string>
 	<key>name</key>
 	<string>assertRespondsTo</string>
 	<key>scope</key>
