@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>assertDifference('${1:expr}', function() {
+	$0
+}${5:, ${4:1}});</string>
+	<key>name</key>
+	<string>assertDifference</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>asd</string>
+	<key>uuid</key>
+	<string>98514EAB-B6C1-440A-843B-C6546BDC5FA7</string>
+</dict>
+</plist>

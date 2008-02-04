@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>// ${1:description of method}
+test${2:${1/[[:alpha:]]+|( )/(?1::\u$0)/g}}: function() { with(this) {
+	$0
+}},
+
+</string>
+	<key>name</key>
+	<string>Test method</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>test</string>
+	<key>uuid</key>
+	<string>76E030E9-CB19-40F0-8EA0-75A10015A503</string>
+</dict>
+</plist>

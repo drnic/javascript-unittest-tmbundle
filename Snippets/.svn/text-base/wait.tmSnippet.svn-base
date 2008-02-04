@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>wait(${1:1000}, function() {
+  $0
+});
+</string>
+	<key>name</key>
+	<string>wait</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>wait</string>
+	<key>uuid</key>
+	<string>2F65C0D1-B46B-457A-BF7D-58E7F88CBB0A</string>
+</dict>
+</plist>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>new Test.Unit.Runner({
+  setup: function() { with(this) {
+  }},
+    
+  teardown: function() { with(this) {
+  }},
+    
+  test$0
+    
+}, {testLog: "${2:testlog${1:-div-id}}"});</string>
+	<key>name</key>
+	<string>Runner</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>runner</string>
+	<key>uuid</key>
+	<string>6AB9B3C4-B615-450E-A9BA-E2E36A2D7EAF</string>
+</dict>
+</plist>

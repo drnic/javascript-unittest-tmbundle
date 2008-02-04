@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>assertIdentical(${1:expected}, ${2:actual}${3:, '${4:Should be identitical}'});</string>
+	<key>name</key>
+	<string>assertIdentical</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>asi</string>
+	<key>uuid</key>
+	<string>BFD9D89E-ADEF-43C5-BCAD-79BA7A3AF3CA</string>
+</dict>
+</plist>

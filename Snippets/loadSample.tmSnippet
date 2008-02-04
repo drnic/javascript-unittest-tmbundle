@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>loadSample('samples/${TM_FILEPATH/.+\/([\w_]+)_test.*/$1/}/${2:sample}.html');</string>
+	<key>name</key>
+	<string>loadSample</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>sample</string>
+	<key>uuid</key>
+	<string>3AD8C0C5-2DFE-40D1-9B54-39E26895A9AA</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Javascript Unit Testing</string>
+	<key>ordering</key>
+	<array>
+		<string>76E030E9-CB19-40F0-8EA0-75A10015A503</string>
+		<string>6AB9B3C4-B615-450E-A9BA-E2E36A2D7EAF</string>
+		<string>4EE8E44C-3B96-4829-9CB2-8E4C0E5789F1</string>
+		<string>EB37621C-FEBA-4311-9F77-C03E4E0B0A8C</string>
+		<string>BBAF1086-999C-44DB-9A67-8851DC0CE12E</string>
+		<string>9F0F3BA0-E505-4B19-924B-6CECF5174368</string>
+		<string>F38FCFBB-FD2A-41AA-8E2F-0ADDD926667E</string>
+		<string>D241D9BA-4C73-4AB3-A916-290EECC88FAA</string>
+		<string>A74991C5-D38F-4815-8AF3-822E89E31A62</string>
+		<string>19E898DA-82F9-4ADA-AF8D-205E8955EDF9</string>
+		<string>8858DEF8-AA05-458D-841B-D89E739310D6</string>
+		<string>BFD9D89E-ADEF-43C5-BCAD-79BA7A3AF3CA</string>
+		<string>92B45387-A51A-4BFB-A830-D3D4F56E6225</string>
+		<string>F2758124-2B09-4B75-B8F9-24F9FAE1D4D7</string>
+		<string>E6D4B8FB-7382-4B54-9515-45091269C678</string>
+		<string>6FAED261-83E1-49C7-9030-4D4323C07998</string>
+		<string>171AEA72-8C96-41BB-B879-C64B4683B10D</string>
+		<string>48A1F1A0-17FA-435F-8ABF-6CB3442C5066</string>
+		<string>F33CC931-818F-4485-B555-02DDCEEB088D</string>
+		<string>25EC314C-6B8E-4AE0-8EBD-B5BE70A017A2</string>
+		<string>B4223129-43D0-4E9D-92E7-E64AACD5EF1F</string>
+		<string>8F427E3B-92F9-4D5B-8D81-7A9EA1DA0BFD</string>
+		<string>E5E78247-D0D5-4B6E-A449-4CD3F2500519</string>
+		<string>CACEA27C-CF3C-4A0D-86D1-502016B76F74</string>
+		<string>0B3C52A4-D9CF-4613-B42E-120B2A0FB0EE</string>
+		<string>2F65C0D1-B46B-457A-BF7D-58E7F88CBB0A</string>
+	</array>
+	<key>uuid</key>
+	<string>A5E7F658-F41E-4C5D-A64D-BF60FBE9D6D3</string>
+</dict>
+</plist>

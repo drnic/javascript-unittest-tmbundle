@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>assertReturnsFalse(${1:method}, ${2:obj}, '${3:Should return false}');</string>
+	<key>name</key>
+	<string>assertReturnsFalse</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>asrtf</string>
+	<key>uuid</key>
+	<string>B4223129-43D0-4E9D-92E7-E64AACD5EF1F</string>
+</dict>
+</plist>

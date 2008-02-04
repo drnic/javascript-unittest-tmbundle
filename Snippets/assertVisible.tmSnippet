@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>assertVisible(${1:element}${4:, '${3:Should be visible}'});</string>
+	<key>name</key>
+	<string>assertVisible</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>asv</string>
+	<key>uuid</key>
+	<string>F38FCFBB-FD2A-41AA-8E2F-0ADDD926667E</string>
+</dict>
+</plist>

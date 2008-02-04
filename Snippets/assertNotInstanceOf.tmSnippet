@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>assertNotInstanceOf(${1:expected}, ${2:actual}, '${3:Should not be instance}');</string>
+	<key>name</key>
+	<string>assertNotInstanceOf</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>asnio</string>
+	<key>uuid</key>
+	<string>48A1F1A0-17FA-435F-8ABF-6CB3442C5066</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>assertInstanceOf(${1:expected}, ${2:actual}, '${3:Should be instance}');</string>
+	<key>name</key>
+	<string>assertInstanceOf</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>asio</string>
+	<key>uuid</key>
+	<string>171AEA72-8C96-41BB-B879-C64B4683B10D</string>
+</dict>
+</plist>

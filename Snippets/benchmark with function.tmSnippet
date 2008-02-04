@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>benchmark(function() {
+	$1
+}, ${2:1000}, '${1/^([a-zA-Z_.]+).*/$1/}');</string>
+	<key>name</key>
+	<string>benchmark with function</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>bmf</string>
+	<key>uuid</key>
+	<string>0B3C52A4-D9CF-4613-B42E-120B2A0FB0EE</string>
+</dict>
+</plist>

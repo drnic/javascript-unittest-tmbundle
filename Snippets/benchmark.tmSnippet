@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>benchmark(${1:operation}, ${2:1000}, '${3:Operation}');</string>
+	<key>name</key>
+	<string>benchmark</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>bm</string>
+	<key>uuid</key>
+	<string>CACEA27C-CF3C-4A0D-86D1-502016B76F74</string>
+</dict>
+</plist>
