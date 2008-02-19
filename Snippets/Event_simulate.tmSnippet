@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertElementsMatch(${1:elements}, ${2:expr});</string>
+	<string>Event.simulate(${1:'${2:element}'}, '${3:event}');</string>
 	<key>name</key>
-	<string>assertElementsMatch</string>
+	<string>Event.simulate</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>asem</string>
+	<string>sim</string>
 	<key>uuid</key>
-	<string>E5E78247-D0D5-4B6E-A449-4CD3F2500519</string>
+	<string>8E4DD3EF-2E63-4EB3-A74B-215D4482AB71</string>
 </dict>
 </plist>
