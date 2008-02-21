@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Event.simulateHtml(${1:'${2:element}'}, '${3:blur|change|error|focus|load|rese|select|submit|unload}');</string>
+	<string>Event.simulateHtml(${1:'${2:element}'}, '${3:blur|change|error|focus|load|reset|select|submit|unload}');</string>
 	<key>name</key>
 	<string>Event.simulateHtml</string>
 	<key>scope</key>
