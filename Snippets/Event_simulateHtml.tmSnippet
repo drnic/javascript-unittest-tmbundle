@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assert(${1:expr}${3:, '${4:Failure message}'});</string>
+	<string>Event.simulateHtml(${1:'${2:element}'}, '${3:blur|change|error|focus|load|rese|select|submit|unload}');</string>
 	<key>name</key>
-	<string>assert</string>
+	<string>Event.simulateHtml</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>as</string>
+	<string>simh</string>
 	<key>uuid</key>
-	<string>4EE8E44C-3B96-4829-9CB2-8E4C0E5789F1</string>
+	<string>9E4AE9FB-4204-4236-BCAA-649BC53A16D2</string>
 </dict>
 </plist>
