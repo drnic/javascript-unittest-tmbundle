@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>error("${1:message}");</string>
+	<string>fail("${1:message}");</string>
 	<key>name</key>
-	<string>error</string>
+	<string>fail</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>error</string>
+	<string>fail</string>
 	<key>uuid</key>
 	<string>0410C17D-29D5-4286-97EB-D75E9A3B7A9F</string>
 </dict>
