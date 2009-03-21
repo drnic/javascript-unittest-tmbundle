@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>"test it ${1:description of method}": function() { with(this) {
-	$0
-}},
+	<string>"test it ${1:description of method}": function() {
+	this.$0
+},
 
 </string>
 	<key>name</key>

@@ -4,9 +4,9 @@
 <dict>
 	<key>content</key>
 	<string>// ${1:description of method}
-test${2:${1/[[:alpha:]]+|( )/(?1::\u$0)/g}}: function() { with(this) {
-	$0
-}},
+test${2:${1/[[:alpha:]]+|( )/(?1::\u$0)/g}}: function() {
+	this.$0
+},
 
 </string>
 	<key>name</key>
