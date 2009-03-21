@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertEqual(${1:expected}, ${2:actual}${3:, '${4:Should be equal}'});</string>
+	<string>assertEqual(${1:expected}, ${2:actual});</string>
 	<key>name</key>
 	<string>assertEqual</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertUndefined(${1:expr}${2:, '${3:Should be undefined}'});</string>
+	<string>assertUndefined(${1:expr});</string>
 	<key>name</key>
 	<string>assertUndefined</string>
 	<key>scope</key>

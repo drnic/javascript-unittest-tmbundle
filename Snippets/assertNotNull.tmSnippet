@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertNotNull(${1:expr}${3:, '${4:Should not be null}'});</string>
+	<string>assertNotNull(${1:expr});</string>
 	<key>name</key>
 	<string>assertNotNull</string>
 	<key>scope</key>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertMatch(${1:expected}, ${2:actual});</string>
+	<string>assertNotHasClass(${1:element}, '${2:class}');</string>
 	<key>name</key>
-	<string>assertMatch</string>
+	<string>assertNotHasClass</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>asm</string>
+	<string>ashc</string>
 	<key>uuid</key>
-	<string>F2758124-2B09-4B75-B8F9-24F9FAE1D4D7</string>
+	<string>B140370A-C104-47A1-9C71-EC9B0E1957AA</string>
 </dict>
 </plist>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>assertNotNullOrUndefined(${1:expr}${2:, '${3:Should be not null nor undefined}'});</string>
+	<string>assertNotNullOrUndefined(${1:expr});</string>
 	<key>name</key>
 	<string>assertNotNullOrUndefined</string>
 	<key>scope</key>
